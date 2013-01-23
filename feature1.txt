@@ -1,5 +1,5 @@
-int some_function()
-{
-	retrun 0;
-}
-
+This is someting simple.
+Another line.
+And yet another one.
+CHANGE4
+CHANGE5
