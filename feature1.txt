@@ -1,5 +1,5 @@
-This is someting simple.
-Another line.
-And yet another one.
-CHANGE4
-CHANGE5
+int another_function(void)
+{
+	return 1;
+}
+
