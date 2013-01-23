@@ -2,3 +2,4 @@ This is someting simple.
 Another line.
 And yet another one.
 CHANGE4
+CHANGE5
